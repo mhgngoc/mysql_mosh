@@ -15,9 +15,9 @@ SELECT * FROM `orders`;
 
 #### Relational Schema
 I have created relational schemas for the 3 databases for a better understanding of the data and for easier data-querying.
-**sql_store**
-![alt text](relational schema_sql_store.png "sql_store")
-**sql_invoicing**
-![alt text](relational schema_sql_invoicing.png "sql_invoicing")
-**sql_hr**
-![alt text](relational schema_sql_hr.png "sql_hr")
+### sql_store
+![alt text](relational%20schema_sql_store.png "sql_store")  
+### sql_invoicing
+![alt text](relational%20schema_sql_invoicing.png "sql_invoicing")  
+### sql_hr
+![alt text](relational%20schema_sql_hr.png "sql_hr")
